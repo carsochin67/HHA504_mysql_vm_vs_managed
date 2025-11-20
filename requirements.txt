@@ -1,4 +1,4 @@
-import sqlalchemy as sa
-import pymysql as pm
-import pandas as pd
-import python-dotenv
+sqlalchemy
+pymysql
+pandas
+python-dotenv
